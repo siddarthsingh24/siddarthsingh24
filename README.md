@@ -1,6 +1,6 @@
 - Hi I am Siddarth Singh
-- I have knowledge in C, C++, Python, Kotlin 
-- HTML, CSS, BOOTSTRAP, JAVASCRIPT
+- I have knowledge in C, C++, Python, MYSQL, Kotlin 
+- HTML, CSS, BOOTSTRAP, JAVASCRIPT and REACT
 - You can reach me through my linkedin(https://www.linkedin.com/in/siddarth-singh-693850220/) and instagram(https://www.instagram.com/sidddarthhh/) 
 
 <!---
